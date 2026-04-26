@@ -9,6 +9,8 @@
 # Claude Code local-only
 .claude/settings.local.json
 
-# inbox is intentionally tracked but its contents aren't
+# inbox/ is tracked but root-level dropped files aren't
 inbox/*
 !inbox/.gitkeep
+!inbox/_daily
+!inbox/_daily/**

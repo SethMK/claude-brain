@@ -91,3 +91,15 @@ Never edit past LOG entries. Never skip the log.
 - `WebFetch` for normal URLs; `mcp__tavily__*` for blocked/heavy pages (job boards, LinkedIn, paywalled).
 - `Read`/`Edit`/`Write` for files. Never `cat`/`sed`.
 - `Bash` only for `ls`/`grep`/`find` over the vault.
+
+## Scan operations (upstream of `/ingest`)
+
+A separate automation feeds `inbox/_daily/YYYY-MM-DD.md` with fresh URLs the user can `/ingest` selectively. You don't run scans yourself — they happen via:
+
+- **`/scan [freeform query]`** (slash command in `.claude/commands/scan.md`) — on-demand topic/skill scan.
+- **Daily remote routine** (cron 08:00 Warsaw) — broad Anthropic/Claude ecosystem, `time_range: day`.
+- **Weekly remote routine** (cron 09:00 Warsaw Sunday) — same domain, `time_range: week`, cross-check.
+
+All scans dedup against `inbox/_daily/_seen.txt` (append-only URL ledger). Query targets and authoritative domains live in `.claude/scan-targets.md` (user-editable).
+
+When you see digest files in `inbox/_daily/`, treat the URLs as candidates — the user will tell you which to `/ingest`.
