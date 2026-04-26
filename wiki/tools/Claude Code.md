@@ -2,7 +2,7 @@
 type: tool
 status: draft
 last_updated: 2026-04-26
-sources: ["[[2026-04-26-extend-claude-code-docs-hub]]"]
+sources: ["[[2026-04-26-extend-claude-code-docs-hub]]", "[[2025-06-05-lennys-newsletter-krieger-anthropic-cpo]]"]
 ---
 
 # Claude Code
@@ -54,6 +54,10 @@ You don't configure all of this upfront. Triggers tell you when to add what:
 - [[MCP]] connections can fail silently mid-session — `/mcp` to check
 - [[Skills\|Skill]] descriptions live in context every session; vague descriptions burn tokens
 - [[Hooks]] are *guarantees*, prompt instructions are *requests* — for safety, use a hook
+
+## Stat to cite
+
+**90-95% of Claude's code is now written by Claude Code itself**, per [[Mike Krieger]] (Anthropic CPO, 2025-06-05). Most companies expected to reach 90%+ AI code generation **within a year** (~mid-2026). Source: [[2025-06-05-lennys-newsletter-krieger-anthropic-cpo]].
 
 ## See also
 

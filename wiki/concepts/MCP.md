@@ -2,7 +2,7 @@
 type: concept
 status: draft
 last_updated: 2026-04-26
-sources: ["[[2026-04-26-extend-claude-code-docs-hub]]"]
+sources: ["[[2026-04-26-extend-claude-code-docs-hub]]", "[[2025-06-05-lennys-newsletter-krieger-anthropic-cpo]]"]
 ---
 
 # MCP
@@ -28,7 +28,11 @@ sources: ["[[2026-04-26-extend-claude-code-docs-hub]]"]
 - Many idle MCP tools = tool-search noise. Disconnect ones you're not using.
 - Run `/mcp` to see token cost per server.
 
+## Why it matters strategically
+
+Per [[Mike Krieger]] (Anthropic CPO), MCP is **"the fastest-growing standard in tech history"** ([[2025-06-05-lennys-newsletter-krieger-anthropic-cpo]]). Microsoft is integrating MCP into Windows. Krieger's vision: *"everything becomes an MCP endpoint"*. For PMs: the integration story is moving from "ship one connector at a time" to "the substrate exists; compose against it".
+
 ## See also
 
-- [[Claude Code]] · [[Skills]] · [[Plugins]] (MCP servers can be bundled)
-- Source: [[2026-04-26-extend-claude-code-docs-hub]]
+- [[Claude Code]] · [[Skills]] · [[Plugins]] (MCP servers can be bundled) · [[Mike Krieger]]
+- Sources: [[2026-04-26-extend-claude-code-docs-hub]], [[2025-06-05-lennys-newsletter-krieger-anthropic-cpo]]

@@ -4,6 +4,7 @@ Hand-curated entry points to the wiki. Claude only updates this when explicitly 
 
 ## Tools
 - [[Claude Code]] — Claude's terminal-native agentic coding system
+- [[Cowork]] — desktop app for AI coworker sessions (stub)
 
 ## Concepts
 - [[CLAUDE-md|CLAUDE.md]] — persistent context loaded every session
@@ -13,6 +14,12 @@ Hand-curated entry points to the wiki. Claude only updates this when explicitly 
 - [[MCP]] — Model Context Protocol; connect to external services
 - [[Hooks]] — scripts/HTTP/prompts triggered by lifecycle events
 - [[Plugins]] — packaging layer bundling skills/hooks/subagents/MCP
+- [[Karpathy LLM Wiki]] — the pattern this project implements
+- [[Agent-native product]] — Krieger's framing for products designed for AI users
+
+## People
+- [[Andrej Karpathy]] — proposed the LLM Wiki pattern this project is built on
+- [[Mike Krieger]] — Anthropic CPO, agent-native product evangelist
 
 ## Workflows
 _Empty._
