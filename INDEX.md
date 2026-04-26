@@ -5,6 +5,7 @@ Hand-curated entry points to the wiki. Claude only updates this when explicitly 
 ## Tools
 - [[Claude Code]] — Claude's terminal-native agentic coding system
 - [[Cowork]] — desktop app for AI coworker sessions (stub)
+- [[Obsidian]] — local-first markdown editor; the IDE half of the LLM Wiki pattern
 
 ## Concepts
 - [[CLAUDE-md|CLAUDE.md]] — persistent context loaded every session
@@ -15,11 +16,16 @@ Hand-curated entry points to the wiki. Claude only updates this when explicitly 
 - [[Hooks]] — scripts/HTTP/prompts triggered by lifecycle events
 - [[Plugins]] — packaging layer bundling skills/hooks/subagents/MCP
 - [[Karpathy LLM Wiki]] — the pattern this project implements
+- [[Knowledge graph]] — nodes + edges + emergent structure; the artifact the wiki *is*
+- [[Second Brain]] — non-dev framing of the goal the LLM Wiki pattern serves
 - [[Agent-native product]] — Krieger's framing for products designed for AI users
 
 ## People
 - [[Andrej Karpathy]] — proposed the LLM Wiki pattern this project is built on
 - [[Mike Krieger]] — Anthropic CPO, agent-native product evangelist
+- [[Wanderloots]] — Obsidian/PKM YouTuber framing graphs vs RAG for non-devs
+- [[Krzysztof Tutak]] — Polish AI podcaster demonstrating Obsidian + Claude Code as a Second Brain
+- [[Krzysztof Błohaczek]] — co-host of the AI Ninjas workshops with Tutak; finance-sector lens
 
 ## Workflows
 _Empty._

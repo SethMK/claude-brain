@@ -2,7 +2,7 @@
 type: person
 status: draft
 last_updated: 2026-04-26
-sources: ["[[2026-04-04-karpathy-llm-wiki-gist]]"]
+sources: ["[[2026-04-04-karpathy-llm-wiki-gist]]", "[[2026-04-16-tutak-obsidian-claude-code]]"]
 ---
 
 # Andrej Karpathy
@@ -22,6 +22,7 @@ Former Tesla AI director, OpenAI co-founder, prolific LLM teacher (YouTube chann
 - **LLM Wiki vs RAG** — knowledge should compound, not re-derive per query
 - **80% agent coding** (Jan 2026 tweet) — personal shift in working pattern
 - **Markdown over embeddings** — future-LLM-proof, human-readable, gitable
+- **Coined "vibe coding"** — per [[Wanderloots]] in [[2026-04-25-wanderloots-why-llm-wiki]]; the term has since become field shorthand for prompt-driven coding without spec.
 
 ## Related
 
@@ -32,3 +33,4 @@ Former Tesla AI director, OpenAI co-founder, prolific LLM teacher (YouTube chann
 ## Recent sources
 
 - [[2026-04-04-karpathy-llm-wiki-gist]] — the foundational gist
+- [[2026-04-16-tutak-obsidian-claude-code]] — [[Krzysztof Tutak]]'s livestream citing Karpathy's LLM Wiki as the underlying concept
