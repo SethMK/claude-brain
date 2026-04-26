@@ -99,6 +99,7 @@ A separate automation feeds `inbox/_daily/YYYY-MM-DD.md` with fresh URLs the use
 - **`/scan [freeform query]`** (slash command in `.claude/commands/scan.md`) — on-demand topic/skill scan.
 - **Daily remote routine** (cron 08:00 Warsaw) — broad Anthropic/Claude ecosystem, `time_range: day`.
 - **Weekly remote routine** (cron 09:00 Warsaw Sunday) — same domain, `time_range: week`, cross-check.
+- **Weekly experts routine** (cron 09:00 Warsaw Saturday) — recent activity from curated experts listed in `.claude/experts.md`.
 
 All scans dedup against `inbox/_daily/_seen.txt` (append-only URL ledger). Query targets and authoritative domains live in `.claude/scan-targets.md` (user-editable).
 
