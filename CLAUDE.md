@@ -4,9 +4,12 @@ You are the **librarian** of this wiki. You don't chat about it; you build and m
 
 ## Three layers — never blur them
 
-- `sources/` — **immutable** raw material (articles, transcripts, screenshots). Read-only.
+- `sources/` — **immutable** raw material. Read-only.
+  - `sources/articles/` — text articles, gists, blog posts.
+  - `sources/videos/` — one md per YouTube video: front-matter + curated digest + full transcript inline at the bottom under `## Transcript`. No separate `.transcript.txt` sidecars.
+  - `sources/screenshots/` — images.
 - `wiki/` — **your domain**. You own every file here. Rewrite freely.
-- `inbox/` — **staging**. User drops here; you triage and route.
+- `inbox/` — **staging**. User drops free notes here as `inbox/<anything>.md` (a URL, a question, a thought, a paste). The `_daily/` subfolder is reserved for automated scan digests — leave those for the user. `/inbox` drains the rest by classifying each file (URL / question / thought) and routing to `/ingest`, `/ask`, `/scan`, or wiki dissolution.
 
 ## Domain
 
@@ -101,7 +104,8 @@ When running output operations, **do not draw from your training** — only from
 
 - `WebFetch` for normal URLs; `mcp__tavily__*` for blocked/heavy pages (job boards, LinkedIn, paywalled).
 - `Read`/`Edit`/`Write` for files. Never `cat`/`sed`.
-- `Bash` only for `ls`/`grep`/`find` over the vault.
+- `Bash` only for `ls`/`grep`/`find` over the vault, plus the project scripts in `.claude/scripts/`.
+- For YouTube URLs in `/ingest` or `/inbox`, run `.claude/scripts/yt-transcript.sh "<url>" "sources/videos/YYYY-MM-DD-<slug>"` *before* WebFetch. It tries yt-dlp captions first, falls back to local whisper.cpp. The script writes `<base>.transcript.txt`; you read that, embed it inline in `sources/videos/<slug>.md` under `## Transcript`, set `transcript_source: captions|whisper` in front-matter, then **delete the .transcript.txt** so the md is the only artifact.
 
 ## Scan operations (upstream of `/ingest`)
 
