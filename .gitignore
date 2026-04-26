@@ -1,0 +1,14 @@
+# macOS
+.DS_Store
+
+# Obsidian — personal layout state, not vault content
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.obsidian/cache/
+
+# Claude Code local-only
+.claude/settings.local.json
+
+# inbox is intentionally tracked but its contents aren't
+inbox/*
+!inbox/.gitkeep
