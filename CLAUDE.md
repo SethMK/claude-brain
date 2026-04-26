@@ -33,6 +33,7 @@ Templates in `wiki/_templates/`. Don't invent new types without asking.
 - **Concept** — an abstraction (`wiki/concepts/`). E.g. "Hooks", "Prompt caching", "Skill description matching".
 - **Tool** — a concrete thing (`wiki/tools/`). E.g. "Claude Code CLI", "Cowork", "VS Code extension".
 - **Workflow** — a recipe the user runs (`wiki/workflows/`). E.g. "PM standup with Claude", "Research dossier in 30 min".
+- **Person** — an expert / author whose work the user tracks (`wiki/people/`). E.g. "Andrej Karpathy", "Mike Krieger". Sources from this person should cite back to their page.
 - **Source-summary** — digest of one source with cross-links (lives next to the source in `sources/` as a sibling `.summary.md` or in `wiki/` if heavy).
 
 ## Page format
@@ -85,6 +86,16 @@ Never edit past LOG entries. Never skip the log.
 
 - User reviews LOG.md ad-hoc, runs `/lint` weekly.
 - If you notice the wiki has drifted (>20 stubs, >10 broken links, contradictions), surface it in your next `/lint` output.
+
+## Output operations (downstream of the wiki)
+
+The wiki is the knowledge engine. These commands **USE** it:
+
+- **`/ask <question>`** (`.claude/commands/ask.md`) — answer from wiki only, cite pages, surface gaps. Read-only on `wiki/`.
+- **`/draft <type> <topic>`** (`.claude/commands/draft.md`) — generate a post / brief / workshop draft to `outputs/`, grounded in wiki sources.
+- **`/explain`** (existing) — plain-English summary of recent `LOG.md` activity.
+
+When running output operations, **do not draw from your training** — only from the wiki + its cited sources. If the wiki doesn't have it, say so and suggest `/scan` or `/ingest`.
 
 ## Tools you should reach for
 
