@@ -3,10 +3,16 @@
 Hand-curated entry points to the wiki. Claude only updates this when explicitly told, or when adding a top-level concept/tool during `/ingest`.
 
 ## Tools
-_Empty — run `/ingest <url>` to populate._
+- [[Claude Code]] — Claude's terminal-native agentic coding system
 
 ## Concepts
-_Empty._
+- [[CLAUDE-md|CLAUDE.md]] — persistent context loaded every session
+- [[Skills]] — reusable knowledge and invocable workflows
+- [[Subagents]] — isolated execution context returning summaries
+- [[Agent teams]] — multiple independent sessions coordinating (experimental)
+- [[MCP]] — Model Context Protocol; connect to external services
+- [[Hooks]] — scripts/HTTP/prompts triggered by lifecycle events
+- [[Plugins]] — packaging layer bundling skills/hooks/subagents/MCP
 
 ## Workflows
 _Empty._
