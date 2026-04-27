@@ -35,7 +35,7 @@ CPO at Anthropic. Co-founded Instagram. Now driving Anthropic's product strategy
 
 - [[Agent-native product]] — his framing
 - [[MCP]] · [[Claude Code]] · [[Cowork]] — his products
-- Other Anthropic voices to add: [[Dario Amodei]] _(wanted)_
+- [[Dario Amodei]] — Anthropic CEO
 
 ## Recent sources
 

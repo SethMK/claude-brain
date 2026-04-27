@@ -33,5 +33,5 @@ A single skill in `.claude/` is fine for one project. A plugin is the right answ
 
 ## See also
 
-- [[Claude Code]] · [[Skills]] · [[Hooks]] · [[MCP]] · [[Plugin marketplaces]] _(wanted page)_
+- [[Claude Code]] · [[Skills]] · [[Hooks]] · [[MCP]] · [[Plugin marketplaces]]
 - Source: [[2026-04-26-extend-claude-code-docs-hub]]

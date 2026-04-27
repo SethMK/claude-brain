@@ -4,7 +4,7 @@ Hand-curated entry points to the wiki. Claude only updates this when explicitly 
 
 ## Tools
 - [[Claude Code]] — Claude's terminal-native agentic coding system
-- [[Cowork]] — desktop app for AI coworker sessions (stub)
+- [[Cowork]] — desktop app for AI coworker sessions
 - [[Obsidian]] — local-first markdown editor; the IDE half of the LLM Wiki pattern
 
 ## Concepts
@@ -15,6 +15,7 @@ Hand-curated entry points to the wiki. Claude only updates this when explicitly 
 - [[MCP]] — Model Context Protocol; connect to external services
 - [[Hooks]] — scripts/HTTP/prompts triggered by lifecycle events
 - [[Plugins]] — packaging layer bundling skills/hooks/subagents/MCP
+- [[Plugin marketplaces]] — catalogs for discovering and installing plugins
 - [[Karpathy LLM Wiki]] — the pattern this project implements
 - [[Knowledge graph]] — nodes + edges + emergent structure; the artifact the wiki *is*
 - [[Second Brain]] — non-dev framing of the goal the LLM Wiki pattern serves
@@ -26,6 +27,8 @@ Hand-curated entry points to the wiki. Claude only updates this when explicitly 
 - [[Wanderloots]] — Obsidian/PKM YouTuber framing graphs vs RAG for non-devs
 - [[Krzysztof Tutak]] — Polish AI podcaster demonstrating Obsidian + Claude Code as a Second Brain
 - [[Krzysztof Błohaczek]] — co-host of the AI Ninjas workshops with Tutak; finance-sector lens
+- [[Dario Amodei]] — Anthropic CEO; AI safety and AGI-risk framing (stub)
+- [[Simon Willison]] — developer/blogger; practical AI reviews and prompt injection advocacy
 
 ## Workflows
 _Empty._

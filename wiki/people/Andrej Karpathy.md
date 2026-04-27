@@ -28,7 +28,7 @@ Former Tesla AI director, OpenAI co-founder, prolific LLM teacher (YouTube chann
 
 - [[Karpathy LLM Wiki]] — his wiki pattern
 - [[Claude Code]] — the tool he's using in his recent posts
-- Other [[LLM engineering]] experts to add: [[Simon Willison]], [[swyx]] _(wanted)_
+- Other experts: [[Simon Willison]], [[swyx]] _(wanted)_, [[LLM engineering]] _(wanted page)_
 
 ## Recent sources
 
