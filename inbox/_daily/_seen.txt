@@ -88,3 +88,13 @@ https://emergent.sh/learn/best-copilot-alternatives-and-competitors
 https://dev.to/soulentheo/every-ai-coding-cli-in-2026-the-complete-map-30-tools-compared-4gob
 https://agentic.ai/best/coding-agents
 https://www.reddit.com/r/vibecoding/comments/1sv18hk/looking_for_better_alternatives_other_than_cursor/
+https://platform.claude.com/docs/en/about-claude/model-deprecations
+https://code.claude.com/docs/en/overview
+https://github.com/skillmatic-ai/awesome-agent-skills
+https://github.com/affaan-m/everything-claude-code
+https://github.com/shanraisshan/claude-code-best-practice
+https://github.com/rohitg00/awesome-claude-code-toolkit
+https://github.com/sagar-jaixwal/claude-code-clone
+https://github.com/marckrenn/claude-code-changelog
+https://github.com/mistricky/ccc
+https://github.com/thedotmack/claude-mem/blob/main/CHANGELOG.md
