@@ -98,3 +98,6 @@ https://github.com/sagar-jaixwal/claude-code-clone
 https://github.com/marckrenn/claude-code-changelog
 https://github.com/mistricky/ccc
 https://github.com/thedotmack/claude-mem/blob/main/CHANGELOG.md
+https://www.anthropic.com/news/claude-3-family
+https://github.com/VILA-Lab/Dive-into-Claude-Code
+https://github.com/FlorianBruniaux/claude-code-ultimate-guide
