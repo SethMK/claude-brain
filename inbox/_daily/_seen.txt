@@ -101,3 +101,6 @@ https://github.com/thedotmack/claude-mem/blob/main/CHANGELOG.md
 https://www.anthropic.com/news/claude-3-family
 https://github.com/VILA-Lab/Dive-into-Claude-Code
 https://github.com/FlorianBruniaux/claude-code-ultimate-guide
+https://www.anthropic.com/engineering/equipping-agents-for-the-real-world-with-agent-skills
+https://www.anthropic.com/research/how-ai-is-transforming-work-at-anthropic
+https://github.com/anthropics/claude-code/issues/47566
