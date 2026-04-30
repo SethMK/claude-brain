@@ -104,3 +104,7 @@ https://github.com/FlorianBruniaux/claude-code-ultimate-guide
 https://www.anthropic.com/engineering/equipping-agents-for-the-real-world-with-agent-skills
 https://www.anthropic.com/research/how-ai-is-transforming-work-at-anthropic
 https://github.com/anthropics/claude-code/issues/47566
+https://www.youtube.com/watch?v=FC6kgljNc1M
+https://github.com/VoltAgent/awesome-agent-skills
+https://github.com/quemsah/awesome-claude-plugins
+https://github.com/marketplace/actions/claude-code-changelog

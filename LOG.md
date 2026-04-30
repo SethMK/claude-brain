@@ -27,3 +27,4 @@ Format: `- YYYY-MM-DD HH:MM | /command | summary | N pages | session-id`
 - 2026-04-27 08:30 | /lint (remote-weekly) | 0 orphans, 2 broken links (swyx, LLM engineering), 0 stale stubs, 2 wikilink gaps + 2 structural gaps (no INDEX.md, no workflows/). Top fix: create INDEX.md. | 0 wiki pages | weekly-lint-2026-04-27
 - 2026-04-28 08:00 | /scan-daily | 3 new items across 4 queries. Top: Dive into Claude Code — VILA-Lab systematic analysis of Claude Code for AI agent design. | 0 wiki pages | scan-daily-2026-04-28
 - 2026-04-29 08:00 | /scan-daily | 3 new items across 4 queries. Top: Equipping agents for the real world with Agent Skills — Anthropic engineering post on Agent Skills + MCP for production agents. | 0 wiki pages | scan-daily-2026-04-29
+- 2026-04-30 08:00 | /scan-daily | 4 new items across 4 queries. Top: NEW Claude Opus 4.7 YouTube walkthrough; VoltAgent/awesome-agent-skills (1000+ community skills). | 0 wiki pages | scan-daily-2026-04-30
