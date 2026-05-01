@@ -108,3 +108,5 @@ https://www.youtube.com/watch?v=FC6kgljNc1M
 https://github.com/VoltAgent/awesome-agent-skills
 https://github.com/quemsah/awesome-claude-plugins
 https://github.com/marketplace/actions/claude-code-changelog
+https://platform.claude.com/docs/en/managed-agents/overview
+https://resources.anthropic.com/hubfs/2026%20Agentic%20Coding%20Trends%20Report.pdf
