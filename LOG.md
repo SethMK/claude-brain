@@ -30,3 +30,4 @@ Format: `- YYYY-MM-DD HH:MM | /command | summary | N pages | session-id`
 - 2026-04-30 08:00 | /scan-daily | 4 new items across 4 queries. Top: NEW Claude Opus 4.7 YouTube walkthrough; VoltAgent/awesome-agent-skills (1000+ community skills). | 0 wiki pages | scan-daily-2026-04-30
 - 2026-05-01 06:21 | /scan-daily | 2 new items across 4 queries. Top: Claude Managed Agents overview — official API docs for multi-agent orchestration with MCP. | 0 wiki pages | scan-daily-2026-05-01
 - 2026-05-02 08:00 | /scan-daily | 0 new items across 4 queries. All 40 results already in _seen.txt. No digest written. Issue: github.com/SethMK/claude-brain/issues/11 | 0 wiki pages | scan-daily-2026-05-02
+- 2026-05-02 09:15 | /scan-experts | 26 new items across 11 experts (10 with hits, 1 quiet). Most active: Lenny Rachitsky (5 items). | 0 wiki pages | scan-experts-2026-05-02
