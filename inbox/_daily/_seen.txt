@@ -137,3 +137,8 @@ https://x.com/lennysan/status/2047377335406694431
 https://www.lennysnewsletter.com/p/this-week-on-how-i-ai-gpt-55-claude
 https://www.lennysnewsletter.com/p/how-to-do-ai-analysis-you-can-actually-db6
 https://www.lennysnewsletter.com/p/an-ai-state-of-the-union
+https://docs.anthropic.com/en/release-notes/overview
+https://red.anthropic.com/2026/zero-days/
+https://code.claude.com/docs/en/sub-agents
+https://support.claude.com/en/articles/12512176-what-are-skills
+https://github.com/anthropics/claude-code/pull/16686/files
