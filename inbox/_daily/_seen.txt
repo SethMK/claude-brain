@@ -142,3 +142,7 @@ https://red.anthropic.com/2026/zero-days/
 https://code.claude.com/docs/en/sub-agents
 https://support.claude.com/en/articles/12512176-what-are-skills
 https://github.com/anthropics/claude-code/pull/16686/files
+https://www.anthropic.com/news/healthcare-life-sciences
+https://www.youtube.com/watch?v=akdRAquseP4
+https://platform.claude.com/docs/en/agents-and-tools/agent-skills/overview
+https://github.com/project-copilot/claude-dev/blob/main/CHANGELOG.md
