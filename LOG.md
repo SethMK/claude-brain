@@ -34,3 +34,4 @@ Format: `- YYYY-MM-DD HH:MM | /command | summary | N pages | session-id`
 - 2026-05-03 06:35 | /scan-daily | 5 new items across 4 queries. Top: red.anthropic.com/2026/zero-days — Anthropic red team zero-days security research. | 0 wiki pages | scan-daily-2026-05-03
 - 2026-05-03 08:00 | /scan-weekly | 0 new items missed by daily scans across 4 queries. Daily scans caught everything. | 0 wiki pages | scan-weekly-2026-05-03
 - 2026-05-04 08:00 | /scan-daily | 4 new items across 4 queries. Top: Advancing Claude in healthcare and the life sciences — HIPAA-ready tools for providers and health tech. | 0 wiki pages | scan-daily-2026-05-04
+- 2026-05-04 07:21 | /lint (remote-weekly) | 0 orphans, 2 broken (swyx, LLM engineering — persistent), 0 stale stubs, 0 gaps. Top fix: ingest Dario Amodei source before stub goes stale (~2026-05-10). | 0 wiki pages | weekly-lint-2026-05-04
