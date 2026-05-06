@@ -146,3 +146,4 @@ https://www.anthropic.com/news/healthcare-life-sciences
 https://www.youtube.com/watch?v=akdRAquseP4
 https://platform.claude.com/docs/en/agents-and-tools/agent-skills/overview
 https://github.com/project-copilot/claude-dev/blob/main/CHANGELOG.md
+https://github.com/jeremylongshore/claude-code-plugins-plus-skills
