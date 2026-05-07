@@ -147,3 +147,6 @@ https://www.youtube.com/watch?v=akdRAquseP4
 https://platform.claude.com/docs/en/agents-and-tools/agent-skills/overview
 https://github.com/project-copilot/claude-dev/blob/main/CHANGELOG.md
 https://github.com/jeremylongshore/claude-code-plugins-plus-skills
+https://code.claude.com/docs/en/skills
+https://alignment.anthropic.com/
+https://github.com/Piebald-AI/claude-code-system-prompts

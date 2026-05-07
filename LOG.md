@@ -8,6 +8,7 @@ Format: `- YYYY-MM-DD HH:MM | /command | summary | N pages | session-id`
 
 - 2026-04-26 13:45 | /init | Project initialised: created CLAUDE.md, README.md, INDEX.md, folder structure (inbox/, sources/, wiki/), 4 slash commands, 4 page templates. Pattern: Karpathy LLM Wiki. | 0 wiki pages | init-001
 - 2026-04-26 12:12 | /scan-daily | 35 new items across 4 queries. Top: Introducing Claude Opus 4.7 — improved software engineering and vision; Claude Mythos Preview — new security-focused model. | 0 wiki pages | scan-daily-2026-04-26
+- 2026-05-07 00:00 | /scan-daily | 3 new items across 4 queries. Top: Piebald-AI/claude-code-system-prompts — tracks Claude Code system prompts across versions. | 0 wiki pages | scan-daily-2026-05-07
 - 2026-04-26 14:15 | /ingest | Extend Claude Code docs hub → 1 source + Tool: Claude Code + 7 Concepts (CLAUDE-md, Skills, Subagents, Agent teams, MCP, Hooks, Plugins). 1 wanted page surfaced (Plugin marketplaces). Detail: wiki/_log/2026-04-26-ingest-001.md | 9 wiki pages | ingest-001
 - 2026-04-26 18:03 | /scan-experts | 39 new items across 11 experts. Most active: Mike Krieger (7 items). | 0 wiki pages | scan-experts-2026-04-26
 - 2026-04-26 18:35 | /ingest (T1 batch 1/2) | Karpathy gist + Krieger Lenny interview + Krieger Coworker YouTube → 3 sources, 2 people (Andrej Karpathy, Mike Krieger), 2 concepts (Karpathy LLM Wiki, Agent-native product), 1 tool stub (Cowork), updates to MCP + Claude Code. New wanted: Dario Amodei, Simon Willison, swyx, LLM engineering. Detail: wiki/_log/2026-04-26-ingest-002.md | 7 wiki pages | ingest-002
