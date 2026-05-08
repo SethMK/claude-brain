@@ -38,3 +38,4 @@ Format: `- YYYY-MM-DD HH:MM | /command | summary | N pages | session-id`
 - 2026-05-04 07:21 | /lint (remote-weekly) | 0 orphans, 2 broken (swyx, LLM engineering — persistent), 0 stale stubs, 0 gaps. Top fix: ingest Dario Amodei source before stub goes stale (~2026-05-10). | 0 wiki pages | weekly-lint-2026-05-04
 - 2026-05-05 08:00 | /scan-daily | 0 new items across 4 queries. All 40 results already in _seen.txt. No digest written. Issue: github.com/SethMK/claude-brain/issues/17 | 0 wiki pages | scan-daily-2026-05-05
 - 2026-05-06 06:04 | /scan-daily | 1 new item across 4 queries. Top: jeremylongshore/claude-code-plugins-plus-skills — 425 plugins, 2,810 skills, 200 agents marketplace with ccpi CLI. | 0 wiki pages | scan-daily-2026-05-06
+- 2026-05-08 08:00 | /scan-daily | 1 new item across 4 queries. Top: Claude for Creative Work — Anthropic announces connectors and features for creative professionals. | 0 wiki pages | scan-daily-2026-05-08

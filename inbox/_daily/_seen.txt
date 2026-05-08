@@ -150,3 +150,4 @@ https://github.com/jeremylongshore/claude-code-plugins-plus-skills
 https://code.claude.com/docs/en/skills
 https://alignment.anthropic.com/
 https://github.com/Piebald-AI/claude-code-system-prompts
+https://www.anthropic.com/news/claude-for-creative-work
