@@ -43,3 +43,4 @@ Format: `- YYYY-MM-DD HH:MM | /command | summary | N pages | session-id`
 - 2026-05-09 08:00 | /scan-experts | 25 new items across 11 experts. Most active: Simon Willison (5 items — live Code w/ Claude 2026 coverage + xAI/Anthropic deal notes). | 0 wiki pages | scan-experts-2026-05-09
 - 2026-05-10 06:20 | /scan-daily | 1 new item across 4 queries. Top: anthropics/financial-services — Anthropic's financial-services GitHub repository. | 0 wiki pages | scan-daily-2026-05-10
 - 2026-05-10 00:00 | /scan-weekly | 0 new items missed by daily scans across 4 queries. Daily scans caught everything this week. | 0 wiki pages | scan-weekly-2026-05-10
+- 2026-05-11 08:00 | /scan-daily | 2 new items across 4 queries. Top: Claude 5 Release Date: Why Anthropic Is Taking SO Long — YouTube analysis of Anthropic's release pace. | 0 wiki pages | scan-daily-2026-05-11
