@@ -1,5 +1,7 @@
 # Claude Brain
 
+<img width="902" height="655" alt="Screenshot 2026-05-22 at 15 59 51" src="https://github.com/user-attachments/assets/45203120-822f-4bf7-84fe-af9700548cc9" />
+
 A self-maintained wiki about the Claude ecosystem (Claude Code, Claude API, Claude Cowork, agents, MCP servers, skills) — built by a **non-developer PM / researcher**, owned by Claude itself.
 
 Pattern adapted from [Karpathy's LLM Wiki](https://gist.github.com/karpathy/442a6bf555914893e9891c11519de94f) (April 2026).
