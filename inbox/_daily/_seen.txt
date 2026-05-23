@@ -182,3 +182,14 @@ https://www.youtube.com/watch?v=pBxCLoFVtKE
 https://www.youtube.com/watch?v=roPfcQHdUtY
 https://www.youtube.com/watch?v=lu-aRvn8dhY
 https://github.com/alirezarezvani/claude-skills
+https://www.anthropic.com/news/pwc-expanded-partnership
+https://www.anthropic.com/news/anthropic-kpmg
+https://www.anthropic.com/news/claude-for-small-business
+https://www.anthropic.com/news/gates-foundation-partnership
+https://www.youtube.com/watch?v=9JoIpWgAsZ8
+https://resources.anthropic.com/hubfs/Claude%20Code%20Advanced%20Patterns_%20Subagents,%20MCP,%20and%20Scaling%20to%20Real%20Codebases.pdf
+https://www.youtube.com/watch?v=D4QO5nUFavM
+https://www.youtube.com/watch?v=-9KrD1YCqkE
+https://github.com/anthropics/claude-code/commits/main/CHANGELOG.md
+https://github.com/anthropics/claude-code/blame/main/CHANGELOG.md
+https://github.com/anthropics/claude-code/commit/870624fc1581a70590e382f263e2972b3f1e56f5
