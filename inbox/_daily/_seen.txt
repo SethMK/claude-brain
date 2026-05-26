@@ -46,3 +46,7 @@ https://www.anthropic.com/webinars/claude-code-advanced-patterns
 https://github.com/anthropics/claude-code/blob/main/plugins/plugin-dev/skills/hook-development/SKILL.md
 https://www.anthropic.com/research/long-running-Claude
 https://www.anthropic.com/engineering/harness-design-long-running-apps
+https://www.anthropic.com/news/healthcare-life-sciences
+https://www.anthropic.com/learn/build-with-claude
+https://www.anthropic.com/news/acquires-vercept
+https://www.anthropic.com/news/skills
