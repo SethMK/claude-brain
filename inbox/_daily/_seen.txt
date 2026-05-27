@@ -50,3 +50,4 @@ https://www.anthropic.com/news/healthcare-life-sciences
 https://www.anthropic.com/learn/build-with-claude
 https://www.anthropic.com/news/acquires-vercept
 https://www.anthropic.com/news/skills
+https://www.anthropic.com/news/anthropic-nec
