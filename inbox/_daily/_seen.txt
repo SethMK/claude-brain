@@ -51,3 +51,15 @@ https://www.anthropic.com/learn/build-with-claude
 https://www.anthropic.com/news/acquires-vercept
 https://www.anthropic.com/news/skills
 https://www.anthropic.com/news/anthropic-nec
+https://github.com/coleam00/claude-code-new-features-early-2026/blob/main/CHEATSHEET.md
+https://www.anthropic.com/claude/opus
+https://modelcontextprotocol.io/development/roadmap
+https://github.com/modelcontextprotocol
+https://github.com/mcp-research/modelcontextprotocol__servers
+https://github.com/rudof-project/eswc2026-rudof-mcp
+https://github.com/GetBindu/awesome-claude-code-and-skills
+https://github.com/anipotts/claude-code-tips
+https://github.com/ThibautMelen/agentic-workflow-patterns
+https://github.com/ruvnet/ruflo
+https://github.com/affaan-m/everything-claude-code
+https://github.com/shanraisshan/claude-code-best-practice
