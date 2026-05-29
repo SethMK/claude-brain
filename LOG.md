@@ -9,4 +9,5 @@ Append-only activity log. One line per action.
 - 2026-05-26 00:00 | /scan-daily | 4 new items across 5 queries. Top: Agent Skills announced — reusable markdown-driven skill files for Claude Code. | 0 wiki pages | scan-daily-2026-05-26
 - 2026-05-27 00:00 | /scan-daily | 1 new item across 5 queries. Top: Anthropic and NEC partner — first Japan-based global partner, ~30,000 NEC employees get Claude access. | 0 wiki pages | scan-daily-2026-05-27
 - 2026-05-28 00:00 | /scan-daily | 12 new items across 5 queries. Top: agentic-workflow-patterns — 7 official Anthropic patterns with Mermaid diagrams; MCP roadmap now live on modelcontextprotocol.io. | 0 wiki pages | scan-daily-2026-05-28
+- 2026-05-29 00:00 | /scan-daily | 2 new items across 5 queries. Top: Understanding MCP Extensions — deep dive into MCP's extension framework covering MCP Apps, Tasks extension, and OAuth auth. | 0 wiki pages | scan-daily-2026-05-29
 
