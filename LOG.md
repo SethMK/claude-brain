@@ -11,4 +11,5 @@ Append-only activity log. One line per action.
 - 2026-05-28 00:00 | /scan-daily | 12 new items across 5 queries. Top: agentic-workflow-patterns — 7 official Anthropic patterns with Mermaid diagrams; MCP roadmap now live on modelcontextprotocol.io. | 0 wiki pages | scan-daily-2026-05-28
 - 2026-05-29 00:00 | /scan-daily | 2 new items across 5 queries. Top: Understanding MCP Extensions — deep dive into MCP's extension framework covering MCP Apps, Tasks extension, and OAuth auth. | 0 wiki pages | scan-daily-2026-05-29
 - 2026-05-30 00:00 | /scan-daily | 2 new items across 5 queries. Top: MCP Java SDK — official Java SDK docs newly surfaced at java.sdk.modelcontextprotocol.io. | 0 wiki pages | scan-daily-2026-05-30
+- 2026-05-31 00:00 | /scan-daily | 4 new items across 5 queries. Top: Introducing Claude Opus 4.8 — dynamic workflows, xhigh effort level, agent teams in research preview, and Claude Code Security for codebase vulnerability scanning. | 0 wiki pages | scan-daily-2026-05-31
 

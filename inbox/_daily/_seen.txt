@@ -67,3 +67,7 @@ https://www.anthropic.com/claude/sonnet
 http://blog.modelcontextprotocol.io/posts/2026-03-11-understanding-mcp-extensions/
 https://java.sdk.modelcontextprotocol.io/latest/
 https://github.com/anthropics/claude-code/blob/main/plugins/plugin-dev/skills/hook-development/references/patterns.md?plain=1
+https://www.anthropic.com/news/claude-opus-4-8
+https://www.anthropic.com/news/claude-code-security
+https://www.anthropic.com/engineering/how-we-contain-claude
+https://docs.anthropic.com/claude/reference/getting-started-with-the-api
