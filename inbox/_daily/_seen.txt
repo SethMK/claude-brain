@@ -73,3 +73,5 @@ https://www.anthropic.com/engineering/how-we-contain-claude
 https://docs.anthropic.com/claude/reference/getting-started-with-the-api
 https://registry.modelcontextprotocol.io/docs
 https://github.com/anthropics/skills/blob/main/skills/claude-api/shared/managed-agents-onboarding.md
+https://www.anthropic.com/news/series-h
+https://github.com/Owl-Listener/ai-design-skills
