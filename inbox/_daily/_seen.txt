@@ -75,3 +75,8 @@ https://registry.modelcontextprotocol.io/docs
 https://github.com/anthropics/skills/blob/main/skills/claude-api/shared/managed-agents-onboarding.md
 https://www.anthropic.com/news/series-h
 https://github.com/Owl-Listener/ai-design-skills
+https://github.com/VILA-Lab/Dive-into-Claude-Code
+https://github.com/modelcontextprotocol/typescript-sdk
+https://www.anthropic.com/news/expanding-project-glasswing
+https://www.anthropic.com/news/confidential-draft-s1-sec
+https://github.com/shanraisshan/claude-code-best-practice/blob/main/CLAUDE.md
