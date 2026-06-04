@@ -15,4 +15,5 @@ Append-only activity log. One line per action.
 - 2026-06-01 00:00 | /scan-daily | 2 new items across 5 queries. Top: Official MCP Registry Reference — central docs for the certified MCP server registry; Managed Agents onboarding guide covering June 15 credit model change. | 0 wiki pages | scan-daily-2026-06-01
 - 2026-06-02 00:00 | /scan-daily | 2 new items across 5 queries. Top: Anthropic raises $65B Series H at $965B valuation; AI Design Skills Collection for agentic product design. | 0 wiki pages | scan-daily-2026-06-02
 - 2026-06-03 00:00 | /scan-daily | 5 new items across 5 queries. Top: Anthropic confidentially submits draft S-1 to the SEC — IPO filing signals 2026 public offering. | 0 wiki pages | scan-daily-2026-06-03
+- 2026-06-04 00:00 | /scan-daily | 4 new items across 5 queries. Top: Services Track and Partner Hub of the Claude Partner Network — tiered structure for what firms have built with Claude. | 0 wiki pages | scan-daily-2026-06-04
 

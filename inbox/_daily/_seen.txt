@@ -80,3 +80,7 @@ https://github.com/modelcontextprotocol/typescript-sdk
 https://www.anthropic.com/news/expanding-project-glasswing
 https://www.anthropic.com/news/confidential-draft-s1-sec
 https://github.com/shanraisshan/claude-code-best-practice/blob/main/CLAUDE.md
+https://github.com/jqueryscript/anthropic-claude-timeline
+https://www.anthropic.com/news/claude-sonnet-4-5
+https://github.com/Doris26/claude-managed-agents-reference
+https://www.anthropic.com/news/services-track-partner-hub
