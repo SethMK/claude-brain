@@ -87,3 +87,4 @@ https://www.anthropic.com/news/services-track-partner-hub
 https://www.anthropic.com/product/claude-code
 https://blog.modelcontextprotocol.io/posts/2025-11-25-first-mcp-anniversary/
 https://github.com/anthropics/claude-code/blob/main/plugins/README.md
+https://github.com/az9713/claude-managed-agents/tree/main/docs
