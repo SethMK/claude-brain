@@ -18,4 +18,5 @@ Append-only activity log. One line per action.
 - 2026-06-04 00:00 | /scan-daily | 4 new items across 5 queries. Top: Services Track and Partner Hub of the Claude Partner Network — tiered structure for what firms have built with Claude. | 0 wiki pages | scan-daily-2026-06-04
 - 2026-06-05 00:00 | /scan-daily | 3 new items across 5 queries. Top: Claude Code product page — official overview of dynamic workflows, auto mode, and agentic coding capabilities. | 0 wiki pages | scan-daily-2026-06-05
 - 2026-06-06 00:00 | /scan-daily | 1 new item across 5 queries. Top: claude-managed-agents/docs — reference docs for the Managed Agents platform covering sessions, containers, orchestration, and pricing. | 0 wiki pages | scan-daily-2026-06-06
+- 2026-06-08 00:00 | /scan-daily | 2 new items across 5 queries. Top: 2026 Agentic Coding Trends Report — Anthropic report on how coding agents reshape software dev, avg 21.2 tool calls per task. | 0 wiki pages | scan-daily-2026-06-08
 
