@@ -21,3 +21,4 @@ Append-only activity log. One line per action.
 - 2026-06-08 00:00 | /scan-daily | 2 new items across 5 queries. Top: 2026 Agentic Coding Trends Report — Anthropic report on how coding agents reshape software dev, avg 21.2 tool calls per task. | 0 wiki pages | scan-daily-2026-06-08
 - 2026-06-10 00:00 | /scan-daily | 2 new items across 5 queries. Top: Claude Code Advanced Patterns slide deck — downloadable PDF from Anthropic webinar on subagents, MCP, and scaling. | 0 wiki pages | scan-daily-2026-06-10
 
+- 2026-06-13 07:11 | /scan-experts | 45 new items across 12 experts. Most active: Simon Willison / Ethan Mollick / Lenny Rachitsky (6 items each). | 0 wiki pages | scan-experts-2026-06-13
