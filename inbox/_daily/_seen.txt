@@ -49,3 +49,16 @@ https://www.anthropic.com/engineering/harness-design-long-running-apps
 https://www.anthropic.com/news/healthcare-life-sciences
 https://www.anthropic.com/news/anthropic-infosys
 https://www.anthropic.com/news/skills
+https://www.anthropic.com/news/claude-opus-4-8
+https://github.com/anthropics/skills/blob/main/skills/claude-api/shared/managed-agents-overview.md
+https://www.anthropic.com/learn/build-with-claude
+https://www.anthropic.com/claude/opus
+https://modelcontextprotocol.io/development/roadmap
+https://blog.modelcontextprotocol.io/posts/2025-11-25-first-mcp-anniversary/
+http://blog.modelcontextprotocol.io/posts/2026-03-11-understanding-mcp-extensions/
+https://www.anthropic.com/news/dxc-anthropic-alliance
+https://www.anthropic.com/news/series-h
+https://www.anthropic.com/news/claude-corps
+https://www.anthropic.com/news/confidential-draft-s1-sec
+https://github.com/anthropics/claude-code/blob/main/plugins/plugin-dev/skills/hook-development/references/patterns.md?plain=1
+https://arxiv.org/pdf/2002.00762

@@ -7,3 +7,4 @@ Append-only activity log. One line per action.
 - 2026-05-24 00:00 | /scan-daily | 25 new items across 5 queries. Top: MCP 2026-07-28 RC — largest protocol revision since launch, now stateless at protocol layer. | 0 wiki pages | scan-daily-2026-05-24
 - 2026-05-24 00:01 | /scan-weekly | 23 new items missed by daily scans across 5 queries. | 0 wiki pages | scan-weekly-2026-05-24
 - 2026-05-25 00:00 | /scan-daily | 3 new items across 5 queries. Top: Introducing Agent Skills — package expertise for Claude to invoke automatically. | 0 wiki pages | scan-daily-2026-05-25
+- 2026-06-13 06:08 | /scan-daily | 13 new items across 5 queries. Top: Anthropic $65B Series H at $965B valuation; DXC alliance; Claude Opus 4.8; IPO S-1 filing; Claude Corps $150M fellowship. | 0 wiki pages | scan-daily-2026-06-13
