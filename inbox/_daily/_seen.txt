@@ -140,3 +140,5 @@ https://venturebeat.com/technology/anthropic-introduces-dreaming-a-system-that-l
 https://www.anthropic.com/news/tcs-anthropic-partnership
 https://www.anthropic.com/news/dxc-anthropic-alliance
 https://www.anthropic.com/news/claude-corps
+https://github.com/modelcontextprotocol/python-sdk
+https://github.com/hesreallyhim/awesome-claude-code/blob/main/README_ALTERNATIVES/README_CLASSIC.md
