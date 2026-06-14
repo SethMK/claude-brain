@@ -137,3 +137,6 @@ https://x.com/alexalbert__/status/2062580571214389510
 https://x.com/alexalbert__/status/1968013878278947081
 https://www.youtube.com/watch?v=T4ieZPIEmd8
 https://venturebeat.com/technology/anthropic-introduces-dreaming-a-system-that-lets-ai-agents-learn-from-their-own-mistakes
+https://www.anthropic.com/news/tcs-anthropic-partnership
+https://www.anthropic.com/news/dxc-anthropic-alliance
+https://www.anthropic.com/news/claude-corps
