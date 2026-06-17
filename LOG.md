@@ -24,3 +24,4 @@ Append-only activity log. One line per action.
 - 2026-06-13 07:11 | /scan-experts | 45 new items across 12 experts. Most active: Simon Willison / Ethan Mollick / Lenny Rachitsky (6 items each). | 0 wiki pages | scan-experts-2026-06-13
 - 2026-06-14 00:00 | /scan-daily | 3 new items across 5 queries. Top: TCS and DXC partner with Anthropic to deploy Claude to tens of thousands of enterprise engineers in regulated industries; Claude Corps launches 1,000-fellow nonprofit program. | 0 wiki pages | scan-daily-2026-06-14
 - 2026-06-14 09:00 | /scan-weekly | 2 new items missed by daily scans across 5 queries. | 0 wiki pages | scan-weekly-2026-06-14
+- 2026-06-17 00:00 | /scan-daily | 1 new item across 5 queries. Top: Agentic coding and persistent returns to expertise — Anthropic research on how agentic coding amplifies returns to developer expertise. | 0 wiki pages | scan-daily-2026-06-17
