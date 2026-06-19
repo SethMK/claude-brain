@@ -62,3 +62,5 @@ https://www.anthropic.com/news/claude-corps
 https://www.anthropic.com/news/confidential-draft-s1-sec
 https://github.com/anthropics/claude-code/blob/main/plugins/plugin-dev/skills/hook-development/references/patterns.md?plain=1
 https://arxiv.org/pdf/2002.00762
+https://blog.modelcontextprotocol.io/posts/enterprise-managed-auth/
+https://www.anthropic.com/news/seoul-office-partnerships-korean-ai-ecosystem
