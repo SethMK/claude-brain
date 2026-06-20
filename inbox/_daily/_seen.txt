@@ -143,3 +143,6 @@ https://www.anthropic.com/news/claude-corps
 https://github.com/modelcontextprotocol/python-sdk
 https://github.com/hesreallyhim/awesome-claude-code/blob/main/README_ALTERNATIVES/README_CLASSIC.md
 https://www.anthropic.com/research/claude-code-expertise
+https://www.anthropic.com/news/3-5-models-and-computer-use
+https://www.anthropic.com/news/fable-mythos-access
+https://www.anthropic.com/news/seoul-office-partnerships-korean-ai-ecosystem
