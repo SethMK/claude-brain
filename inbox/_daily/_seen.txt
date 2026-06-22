@@ -174,3 +174,7 @@ https://x.com/AmandaAskell/status/2022778351744581779
 https://www.fastcompany.com/91560768/claude-is-becoming-more-agentic-amanda-askell-is-thinking-through-what-that-means
 https://x.com/alexalbert__/status/2045165630421364853
 https://resources.anthropic.com/hubfs/Building%20Effective%20AI%20Agents-%20Architecture%20Patterns%20and%20Implementation%20Frameworks.pdf
+https://github.com/Picrew/awesome-agent-harness
+https://github.com/hesreallyhim/awesome-claude-code/blob/main/README_ALTERNATIVES/README_AWESOME.md
+https://github.com/Yeachan-Heo/oh-my-claudecode
+https://github.com/PacktPublishing/Agentic-Coding-with-Claude-Code
