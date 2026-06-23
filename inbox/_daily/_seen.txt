@@ -178,3 +178,5 @@ https://github.com/Picrew/awesome-agent-harness
 https://github.com/hesreallyhim/awesome-claude-code/blob/main/README_ALTERNATIVES/README_AWESOME.md
 https://github.com/Yeachan-Heo/oh-my-claudecode
 https://github.com/PacktPublishing/Agentic-Coding-with-Claude-Code
+https://www.anthropic.com/engineering/equipping-agents-for-the-real-world-with-agent-skills
+https://arxiv.org/pdf/2508.08322
