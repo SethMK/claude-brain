@@ -180,3 +180,7 @@ https://github.com/Yeachan-Heo/oh-my-claudecode
 https://github.com/PacktPublishing/Agentic-Coding-with-Claude-Code
 https://www.anthropic.com/engineering/equipping-agents-for-the-real-world-with-agent-skills
 https://arxiv.org/pdf/2508.08322
+https://docs.anthropic.com/en/release-notes/api
+https://github.com/microsoft/mcp/blob/main/servers/Azure.Mcp.Server/README.md
+https://github.com/FlorianBruniaux/claude-code-ultimate-guide
+https://github.com/FlorianBruniaux/claude-code-ultimate-guide/blob/main/guide/workflows/agent-teams.md
