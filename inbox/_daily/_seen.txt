@@ -187,3 +187,5 @@ https://github.com/FlorianBruniaux/claude-code-ultimate-guide/blob/main/guide/wo
 https://gist.github.com/oikon48/2241e3d4018948b6d2fdcd9f90914766
 https://github.com/shanraisshan/claude-code-best-practice/blob/main/orchestration-workflow/orchestration-workflow.md
 https://github.com/anthropics/claude-code/issues/64898
+https://ts.sdk.modelcontextprotocol.io/v2/documents/Documents.Server_Guide.html
+https://arxiv.org/pdf/2601.18833

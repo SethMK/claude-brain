@@ -34,3 +34,4 @@ Append-only activity log. One line per action.
 - 2026-06-25 00:00 | /scan-daily | 4 new items across 5 queries. Top: claude-code-ultimate-guide — the most comprehensive Claude Code guide with 430K+ lines covering agentic workflows, hooks, skills, MCP, and production-ready templates. | 0 wiki pages | scan-daily-2026-06-25
 - 2026-06-26 00:00 | /scan-daily | 2 new items across 5 queries. Top: claude-code-best-practice orchestration-workflow.md — step-by-step multi-agent orchestration pattern guide from community best-practice repo. | 0 wiki pages | scan-daily-2026-06-26
 - 2026-06-28 00:00 | /scan-weekly | 1 new item missed by daily scans across 5 queries. | 0 wiki pages | scan-weekly-2026-06-28
+- 2026-06-30 00:00 | /scan-daily | 2 new items across 5 queries. Top: MCP TypeScript SDK v2 Server Guide — stateless protocol implementation guide aligned with 2026-07-28 RC. | 0 wiki pages | scan-daily-2026-06-30
