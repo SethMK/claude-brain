@@ -189,3 +189,6 @@ https://github.com/shanraisshan/claude-code-best-practice/blob/main/orchestratio
 https://github.com/anthropics/claude-code/issues/64898
 https://ts.sdk.modelcontextprotocol.io/v2/documents/Documents.Server_Guide.html
 https://arxiv.org/pdf/2601.18833
+https://www.anthropic.com/news/claude-science-ai-workbench
+https://www.anthropic.com/news/claude-fable-5-mythos-5
+https://arxiv.org/pdf/2605.02396
