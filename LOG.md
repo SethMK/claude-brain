@@ -36,3 +36,4 @@ Append-only activity log. One line per action.
 - 2026-06-28 00:00 | /scan-weekly | 1 new item missed by daily scans across 5 queries. | 0 wiki pages | scan-weekly-2026-06-28
 - 2026-06-30 00:00 | /scan-daily | 2 new items across 5 queries. Top: MCP TypeScript SDK v2 Server Guide — stateless protocol implementation guide aligned with 2026-07-28 RC. | 0 wiki pages | scan-daily-2026-06-30
 - 2026-07-02 00:00 | /scan-daily | 3 new items across 5 queries. Top: Claude Science launched — Anthropic AI workbench for scientists in beta; Claude Fable 5 & Mythos 5 announced. | 0 wiki pages | scan-daily-2026-07-02
+- 2026-07-03 00:00 | /scan-daily | 3 new items across 5 queries. Top: Redeploying Claude Fable 5 — Anthropic lifts US government suspension and restores general access; MCP SDK betas for 2026-07-28 RC published; Managed Agents overview doc surfaced. | 0 wiki pages | scan-daily-2026-07-03

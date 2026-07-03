@@ -192,3 +192,6 @@ https://arxiv.org/pdf/2601.18833
 https://www.anthropic.com/news/claude-science-ai-workbench
 https://www.anthropic.com/news/claude-fable-5-mythos-5
 https://arxiv.org/pdf/2605.02396
+https://github.com/anthropics/skills/blob/main/skills/claude-api/shared/managed-agents-overview.md
+https://blog.modelcontextprotocol.io/posts/sdk-betas-2026-07-28/
+https://www.anthropic.com/news/redeploying-fable-5
