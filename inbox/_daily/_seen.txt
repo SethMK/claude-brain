@@ -195,3 +195,4 @@ https://arxiv.org/pdf/2605.02396
 https://github.com/anthropics/skills/blob/main/skills/claude-api/shared/managed-agents-overview.md
 https://blog.modelcontextprotocol.io/posts/sdk-betas-2026-07-28/
 https://www.anthropic.com/news/redeploying-fable-5
+https://www.anthropic.com/news/claude-sonnet-5
