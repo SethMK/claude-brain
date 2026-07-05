@@ -39,3 +39,4 @@ Append-only activity log. One line per action.
 - 2026-07-03 00:00 | /scan-daily | 3 new items across 5 queries. Top: Redeploying Claude Fable 5 — Anthropic lifts US government suspension and restores general access; MCP SDK betas for 2026-07-28 RC published; Managed Agents overview doc surfaced. | 0 wiki pages | scan-daily-2026-07-03
 - 2026-07-04 00:00 | /scan-daily | 1 new item across 5 queries. Top: Introducing Claude Sonnet 5 — new default model for Free and Pro plans. | 0 wiki pages | scan-daily-2026-07-04
 - 2026-07-04 00:30 | /scan-experts | 24 new items across 12 experts. Most active: Andrej Karpathy (4 items), Lenny Rachitsky (4 items). | 0 wiki pages | scan-experts-2026-07-04
+- 2026-07-05 00:00 | /scan-weekly | 1 new item missed by daily scans across 5 queries. | 0 wiki pages | scan-weekly-2026-07-05
