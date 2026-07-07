@@ -220,3 +220,4 @@ https://www.youtube.com/watch?v=iF9iV4xponk
 https://www.youtube.com/watch?v=XuvKFsktX0Q
 https://github.com/anthropics/skills/blob/main/skills/claude-api/shared/managed-agents-overview.md
 https://www.anthropic.com/news/claude-science-ai-workbench
+https://github.com/topics/subagents
