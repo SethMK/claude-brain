@@ -221,3 +221,4 @@ https://tech.yahoo.com/ai/claude/articles/amanda-askell-teaching-claude-ethical-
 https://x.com/alexalbert__/status/2052067009605861764
 https://www.youtube.com/watch?v=5cQouQZm9fI
 https://arxiv.org/pdf/2606.26114
+https://blog.modelcontextprotocol.io/tags/release/
