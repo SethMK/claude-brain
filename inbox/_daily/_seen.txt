@@ -222,3 +222,6 @@ https://x.com/alexalbert__/status/2052067009605861764
 https://www.youtube.com/watch?v=5cQouQZm9fI
 https://arxiv.org/pdf/2606.26114
 https://blog.modelcontextprotocol.io/tags/release/
+https://github.com/FlorianBruniaux/claude-code-ultimate-guide/blob/main/guide/roles/ai-roles.md
+https://arxiv.org/pdf/2606.08091
+https://arxiv.org/pdf/2605.31264

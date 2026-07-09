@@ -41,3 +41,4 @@ Append-only activity log. One line per action.
 - 2026-07-04 00:30 | /scan-experts | 24 new items across 12 experts. Most active: Andrej Karpathy (4 items), Lenny Rachitsky (4 items). | 0 wiki pages | scan-experts-2026-07-04
 - 2026-07-05 00:00 | /scan-weekly | 1 new item missed by daily scans across 5 queries. | 0 wiki pages | scan-weekly-2026-07-05
 - 2026-07-08 00:00 | /scan-daily | 1 new item across 5 queries. Top: MCP Release tag index — chronological landing page for all official MCP spec and SDK releases. | 0 wiki pages | scan-daily-2026-07-08
+- 2026-07-09 00:00 | /scan-daily | 3 new items across 5 queries. Top: COLLEAGUE.SKILL — automated AI skill generation via expert knowledge distillation, aligned with Anthropic Skills framework. | 0 wiki pages | scan-daily-2026-07-09
