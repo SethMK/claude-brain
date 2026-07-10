@@ -42,3 +42,4 @@ Append-only activity log. One line per action.
 - 2026-07-05 00:00 | /scan-weekly | 1 new item missed by daily scans across 5 queries. | 0 wiki pages | scan-weekly-2026-07-05
 - 2026-07-08 00:00 | /scan-daily | 1 new item across 5 queries. Top: MCP Release tag index — chronological landing page for all official MCP spec and SDK releases. | 0 wiki pages | scan-daily-2026-07-08
 - 2026-07-09 00:00 | /scan-daily | 3 new items across 5 queries. Top: COLLEAGUE.SKILL — automated AI skill generation via expert knowledge distillation, aligned with Anthropic Skills framework. | 0 wiki pages | scan-daily-2026-07-09
+- 2026-07-10 00:00 | /scan-daily | 2 new items across 5 queries. Top: Writing effective tools for AI agents — Anthropic engineering post on designing well-specified tools for AI agents using AI agents themselves. | 0 wiki pages | scan-daily-2026-07-10

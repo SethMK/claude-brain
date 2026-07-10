@@ -225,3 +225,5 @@ https://blog.modelcontextprotocol.io/tags/release/
 https://github.com/FlorianBruniaux/claude-code-ultimate-guide/blob/main/guide/roles/ai-roles.md
 https://arxiv.org/pdf/2606.08091
 https://arxiv.org/pdf/2605.31264
+https://www.anthropic.com/engineering/writing-tools-for-agents
+https://www.anthropic.com/research/model-context-protocol
