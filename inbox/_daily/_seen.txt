@@ -249,3 +249,4 @@ https://x.com/sfchronicle/status/2027208330083500314
 https://www.youtube.com/watch?v=iF9iV4xponk
 https://www.youtube.com/watch?v=XuvKFsktX0Q
 https://www.youtube.com/watch?v=Yf_1w00qIKc
+https://docs.anthropic.com/en/release-notes/claude-apps
