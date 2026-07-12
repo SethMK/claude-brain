@@ -250,3 +250,4 @@ https://www.youtube.com/watch?v=iF9iV4xponk
 https://www.youtube.com/watch?v=XuvKFsktX0Q
 https://www.youtube.com/watch?v=Yf_1w00qIKc
 https://docs.anthropic.com/en/release-notes/claude-apps
+https://modelcontextprotocol.io/docs/getting-started/intro
