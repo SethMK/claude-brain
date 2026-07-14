@@ -46,3 +46,4 @@ Append-only activity log. One line per action.
 - 2026-07-11 00:30 | /scan-experts | 22 new items across 12 experts. Most active: Andrej Karpathy (4 items), Lenny Rachitsky (4 items). Karpathy named Claude Tag a 3rd LLM paradigm shift; Lenny published workforce-splitting survey + Sonnet 5 benchmarks. | 0 wiki pages | scan-experts-2026-07-11
 - 2026-07-12 00:00 | /scan-daily | 1 new item across 5 queries. Top: Claude apps release notes page — docs.anthropic.com/en/release-notes/claude-apps, official changelog for Claude.ai and mobile/desktop clients. | 0 wiki pages | scan-daily-2026-07-12
 - 2026-07-12 10:59 | /scan-weekly | 1 new item missed by daily scans across 5 queries. | 0 wiki pages | scan-weekly-2026-07-12
+- 2026-07-14 00:00 | /scan-daily | 3 new items across 5 queries. Top: rohitg00/awesome-claude-code-toolkit — 135 agents, 35 skills, 42 commands, 176+ plugins, 20 hooks, 15 rules in one curated toolkit. | 0 wiki pages | scan-daily-2026-07-14
