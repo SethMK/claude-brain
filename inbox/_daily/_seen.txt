@@ -254,3 +254,4 @@ https://modelcontextprotocol.io/docs/getting-started/intro
 https://github.com/FlorianBruniaux/claude-code-ultimate-guide/blob/main/guide/core/architecture.md
 https://github.com/alirezarezvani/claude-skills/blob/main/CLAUDE.md
 https://github.com/rohitg00/awesome-claude-code-toolkit
+https://github.com/ai-boost/awesome-harness-engineering
