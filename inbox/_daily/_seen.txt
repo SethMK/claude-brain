@@ -255,3 +255,5 @@ https://github.com/FlorianBruniaux/claude-code-ultimate-guide/blob/main/guide/co
 https://github.com/alirezarezvani/claude-skills/blob/main/CLAUDE.md
 https://github.com/rohitg00/awesome-claude-code-toolkit
 https://github.com/ai-boost/awesome-harness-engineering
+https://www.anthropic.com/news/claude-partner-network
+https://www.anthropic.com/webinars/building-on-the-claude-platform-claude-fable-5-and-model-orchestration-patterns
