@@ -50,3 +50,4 @@ Append-only activity log. One line per action.
 - 2026-07-15 00:00 | /scan-daily | 1 new item across 5 queries. Top: ai-boost/awesome-harness-engineering — curated list of agent harness engineering resources covering tools, patterns, evals, memory, MCP, and orchestration. | 0 wiki pages | scan-daily-2026-07-15
 - 2026-07-17 00:00 | /scan-daily | 2 new items across 5 queries. Top: Anthropic Claude Partner Network — $100M commitment to partner training, technical support, and joint market development; Fable 5 orchestration patterns webinar. | 0 wiki pages | scan-daily-2026-07-17
 - 2026-07-18 07:08 | /scan-experts | 32 new items across 12 experts. Most active: Andrej Karpathy / Simon Willison (4 items each). | 0 wiki pages | scan-experts-2026-07-18
+- 2026-07-19 06:04 | /scan-daily | 2 new items across 5 queries. Top: MCP TypeScript SDK v2 root docs aligned with 2026-07-28 stateless spec RC. | 0 wiki pages | scan-daily-2026-07-19
