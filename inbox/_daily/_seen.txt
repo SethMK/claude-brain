@@ -291,3 +291,4 @@ https://x.com/alexalbert__/status/2045165630421364853
 https://alexalbert.beehiiv.com/
 https://ts.sdk.modelcontextprotocol.io/v2/
 https://www.anthropic.com/news?subjects=announcements
+https://github.com/topics/claude-code-skills
