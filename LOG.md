@@ -52,3 +52,4 @@ Append-only activity log. One line per action.
 - 2026-07-18 07:08 | /scan-experts | 32 new items across 12 experts. Most active: Andrej Karpathy / Simon Willison (4 items each). | 0 wiki pages | scan-experts-2026-07-18
 - 2026-07-19 06:04 | /scan-daily | 2 new items across 5 queries. Top: MCP TypeScript SDK v2 root docs aligned with 2026-07-28 stateless spec RC. | 0 wiki pages | scan-daily-2026-07-19
 - 2026-07-22 00:00 | /scan-daily | 1 new item across 5 queries. Top: claude-code-skills GitHub Topics hub — aggregates all community skill packs, hooks, and orchestration templates tagged with claude-code-skills. | 0 wiki pages | scan-daily-2026-07-22
+- 2026-07-25 00:30 | /scan-experts | 14 new items across 12 experts. Most active: Andrej Karpathy / Ben Thompson (3 items each). Karpathy join-Anthropic news still generating content; Thompson adds Chinese models analysis. | 0 wiki pages | scan-experts-2026-07-25
