@@ -88,6 +88,7 @@ https://www.anthropic.com/product/claude-code
 https://blog.modelcontextprotocol.io/posts/2025-11-25-first-mcp-anniversary/
 https://github.com/anthropics/claude-code/blob/main/plugins/README.md
 https://github.com/az9713/claude-managed-agents/tree/main/docs
+https://github.com/AjayIrkal23/agentic-mercy-10x
 https://docs.anthropic.com/en/release-notes/overview
 https://resources.anthropic.com/hubfs/2026%20Agentic%20Coding%20Trends%20Report.pdf?hsLang=en
 https://resources.anthropic.com/hubfs/Claude%20Code%20Advanced%20Patterns_%20Subagents,%20MCP,%20and%20Scaling%20to%20Real%20Codebases.pdf
