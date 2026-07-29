@@ -36,3 +36,4 @@ Append-only activity log. One line per action.
 - 2026-06-27 00:00 | /scan-daily | 2 new items across 5 queries. Top: Writing effective tools for AI agents — Anthropic engineering post on using AI agents to author and validate better tool definitions. | 0 wiki pages | scan-daily-2026-06-27
 - 2026-06-27 00:30 | /scan-experts | 30 new items across 12 experts. Most active: Lenny Rachitsky (6 items). | 0 wiki pages | scan-experts-2026-06-27
 - 2026-07-01 00:00 | /scan-daily | 2 new items across 5 queries. Top: Claude Science — AI workbench for scientists integrating research tools, auditable artifacts, and flexible compute; Managed Agents overview reference file. | 0 wiki pages | scan-daily-2026-07-01
+- 2026-07-29 00:00 | /scan-daily | 11 new items across 5 queries. Top: Claude Fable 5 & Mythos 5 announced; Sonnet 5 new default model; MCP 2026-07-28 final spec with stateless architecture and enterprise auth stable. | 0 wiki pages | scan-daily-2026-07-29
