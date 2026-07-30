@@ -54,3 +54,4 @@ Append-only activity log. One line per action.
 - 2026-07-22 00:00 | /scan-daily | 1 new item across 5 queries. Top: claude-code-skills GitHub Topics hub — aggregates all community skill packs, hooks, and orchestration templates tagged with claude-code-skills. | 0 wiki pages | scan-daily-2026-07-22
 - 2026-07-25 00:30 | /scan-experts | 14 new items across 12 experts. Most active: Andrej Karpathy / Ben Thompson (3 items each). Karpathy join-Anthropic news still generating content; Thompson adds Chinese models analysis. | 0 wiki pages | scan-experts-2026-07-25
 - 2026-07-26 00:00 | /scan-weekly | 1 new item missed by daily scans across 5 queries. | 0 wiki pages | scan-weekly-2026-07-26
+- 2026-07-30 06:03 | /scan-daily | 2 new items across 5 queries. Top: MCP 2026-07-28 final specification post (stateless core, Extensions, Tasks, Enterprise Auth); Anthropic-Cognizant partnership expansion. | 0 wiki pages | scan-daily-2026-07-30
