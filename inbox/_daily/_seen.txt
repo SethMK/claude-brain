@@ -309,3 +309,5 @@ https://www.youtube.com/watch?v=JAoBdIJlLso
 https://www.youtube.com/watch?v=J_oUABikcCQ
 https://blog.modelcontextprotocol.io/posts/2026-07-28/
 https://www.anthropic.com/news/cognizant-anthropic
+https://modelcontextprotocol.io/specification/2026-07-28
+https://blog.modelcontextprotocol.io/posts/
