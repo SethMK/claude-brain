@@ -231,3 +231,6 @@ https://www.anthropic.com/news/redeploying-fable-5
 https://www.anthropic.com/news/claude-sonnet-5
 https://www.anthropic.com/webinars/building-on-the-claude-platform-claude-fable-5-and-model-orchestration-patterns
 https://arxiv.org/pdf/2605.02396
+https://modelcontextprotocol.io/specification/2026-07-28
+https://py.sdk.modelcontextprotocol.io/whats-new/
+https://www.anthropic.com/news/claude-partner-network
