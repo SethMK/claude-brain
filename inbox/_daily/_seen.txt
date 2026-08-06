@@ -330,3 +330,4 @@ https://www.bloomberg.com/opinion/articles/2026-07-29/anthropic-has-just-turned-
 https://fortune.com/2026/07/24/anthropic-peter-mccrory-dario-amodei-why-hasnt-it-killed-jobs/
 https://x.com/AmandaAskell/status/2064223861512847456
 https://github.com/Sakshxm1/hermes-agency-orchestrator
+https://py.sdk.modelcontextprotocol.io/whats-new/
