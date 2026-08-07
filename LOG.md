@@ -59,3 +59,4 @@ Append-only activity log. One line per action.
 - 2026-08-01 00:30 | /scan-experts | 18 new items across 12 experts. Most active: Dario Amodei (5 items) — open-weight model ban clarification dominates; Lilian Weng rejoins OpenAI for recursive self-improvement research. | 0 wiki pages | scan-experts-2026-08-01
 - 2026-08-05 00:00 | /scan-daily | 1 new item across 5 queries. Top: hermes-agency-orchestrator — Claude Code Agent Workflows Guide 2026: Skills vs Teams vs Cost Analysis. | 0 wiki pages | scan-daily-2026-08-05
 - 2026-08-06 00:00 | /scan-daily | 1 new item across 5 queries. Top: MCP Python SDK v2 — what's new doc covering migration from v1 and stateless transport aligned with 2026-07-28 spec. | 0 wiki pages | scan-daily-2026-08-06
+- 2026-08-07 00:00 | /scan-daily | 1 new item across 5 queries. Top: anthropics/skills issue #626 — community request for a System Architecture Skill for Claude Code and Cursor. | 0 wiki pages | scan-daily-2026-08-07
