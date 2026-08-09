@@ -61,3 +61,4 @@ Append-only activity log. One line per action.
 - 2026-08-06 00:00 | /scan-daily | 1 new item across 5 queries. Top: MCP Python SDK v2 — what's new doc covering migration from v1 and stateless transport aligned with 2026-07-28 spec. | 0 wiki pages | scan-daily-2026-08-06
 - 2026-08-07 00:00 | /scan-daily | 1 new item across 5 queries. Top: anthropics/skills issue #626 — community request for a System Architecture Skill for Claude Code and Cursor. | 0 wiki pages | scan-daily-2026-08-07
 - 2026-08-08 07:16 | /scan-experts | 18 new items across 8 experts. Most active: Ben Thompson (4 items) and Ethan Mollick (4 items). | 0 wiki pages | scan-experts-2026-08-08
+- 2026-08-09 00:00 | /scan-daily | 2 new items across 5 queries. Top: anyclaude-sdk — Claude Code agent capabilities for any OpenAI/Anthropic-compatible LLM, runs in browser (WebContainer), Node, and Bun with no backend required. | 0 wiki pages | scan-daily-2026-08-09
