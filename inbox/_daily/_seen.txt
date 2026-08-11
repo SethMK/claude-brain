@@ -352,3 +352,4 @@ https://stratechery.com/2026/a-script-for-mark-zuckerberg/
 https://www.youtube.com/watch?v=EuC1GWhQdKE
 https://github.com/pipilot-dev/anyclaude-sdk
 https://github.com/shanraisshan/claude-code-best-practice/blob/main/README.md
+https://github.com/multica-ai/multica/issues/2815
