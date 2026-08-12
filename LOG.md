@@ -63,3 +63,4 @@ Append-only activity log. One line per action.
 - 2026-08-08 07:16 | /scan-experts | 18 new items across 8 experts. Most active: Ben Thompson (4 items) and Ethan Mollick (4 items). | 0 wiki pages | scan-experts-2026-08-08
 - 2026-08-09 00:00 | /scan-daily | 2 new items across 5 queries. Top: anyclaude-sdk — Claude Code agent capabilities for any OpenAI/Anthropic-compatible LLM, runs in browser (WebContainer), Node, and Bun with no backend required. | 0 wiki pages | scan-daily-2026-08-09
 - 2026-08-11 06:06 | /scan-daily | 1 new item across 5 queries. Top: Anthropic programmatic-usage credit (June 2026) — community discussion on pricing implications for daemon Claude backends (multica/multica#2815). | 0 wiki pages | scan-daily-2026-08-11
+- 2026-08-12 00:00 | /scan-daily | 1 new item across 5 queries. Top: Steering Claude Code — skills, hooks, subagents and more (github.com/yuc16/claude-fm, 2026-06-18 article). | 0 wiki pages | scan-daily-2026-08-12
