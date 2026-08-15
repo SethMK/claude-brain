@@ -65,3 +65,4 @@ Append-only activity log. One line per action.
 - 2026-08-11 06:06 | /scan-daily | 1 new item across 5 queries. Top: Anthropic programmatic-usage credit (June 2026) — community discussion on pricing implications for daemon Claude backends (multica/multica#2815). | 0 wiki pages | scan-daily-2026-08-11
 - 2026-08-12 00:00 | /scan-daily | 1 new item across 5 queries. Top: Steering Claude Code — skills, hooks, subagents and more (github.com/yuc16/claude-fm, 2026-06-18 article). | 0 wiki pages | scan-daily-2026-08-12
 - 2026-08-15 06:05 | /scan-daily | 1 new item across 5 queries. Top: Extend Claude Code - Claude Code Docs (docs.anthropic.com) — official feature-overview docs for skills, hooks, subagents, MCP. | 0 wiki pages | scan-daily-2026-08-15
+- 2026-08-15 07:14 | /scan-experts | 9 new items across 11 experts. Most active: Ilya Sutskever (3 items). | 0 wiki pages | scan-experts-2026-08-15

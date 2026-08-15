@@ -355,3 +355,13 @@ https://github.com/shanraisshan/claude-code-best-practice/blob/main/README.md
 https://github.com/multica-ai/multica/issues/2815
 https://github.com/yuc16/claude-fm/blob/main/content/claude/blog/articles/2026-06-18-Steering%20Claude%20Code%20-%20skills,%20hooks,%20subagents%20and%20more.md
 https://docs.anthropic.com/en/docs/claude-code/features-overview
+https://x.com/kimmonismus/status/2084954900501295181
+https://x.com/MTSlive/status/2084675767053824332
+https://www.youtube.com/shorts/9Zwl9HuNqIw
+https://simonwillison.net/2026/Aug/2/open-letters/
+https://x.com/emollick/status/2086875820279128574
+https://www.lennysnewsletter.com/p/best-of-lennys-newsletter-2026
+https://stratechery.com/2026/the-capex-train-keeps-rolling/
+https://www.anthropic.com/news/position-open-weights-models
+https://www.techtimes.com/articles/323873/20260811/claude-now-watermarks-text-everywhere-mark-proves-processing-not-authorship.htm
+https://x.com/AmandaAskell/status/2083649115901337644
