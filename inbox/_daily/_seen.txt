@@ -366,3 +366,4 @@ https://www.anthropic.com/news/position-open-weights-models
 https://www.techtimes.com/articles/323873/20260811/claude-now-watermarks-text-everywhere-mark-proves-processing-not-authorship.htm
 https://x.com/AmandaAskell/status/2083649115901337644
 https://github.com/anthropics/skills/blob/main/skills/claude-api/shared/managed-agents-tools.md
+https://github.com/ithiria894/awesome-claude-code-workflows
