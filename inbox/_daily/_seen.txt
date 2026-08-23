@@ -234,3 +234,4 @@ https://arxiv.org/pdf/2605.02396
 https://modelcontextprotocol.io/specification/2026-07-28
 https://py.sdk.modelcontextprotocol.io/whats-new/
 https://www.anthropic.com/news/claude-partner-network
+https://blog.modelcontextprotocol.io/posts/mcp-roadmap/
