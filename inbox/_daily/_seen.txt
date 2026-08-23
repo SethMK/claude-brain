@@ -384,3 +384,4 @@ https://darioamodei.com/post/policy-on-the-ai-exponential
 https://x.com/DarioAmodei/status/2064781775247950326
 https://simonwillison.net/2026/Aug/16/dario-amodei/
 https://x.com/itsolelehmann/status/2045578185950040390
+https://blog.modelcontextprotocol.io/posts/mcp-roadmap/
