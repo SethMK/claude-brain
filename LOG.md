@@ -70,3 +70,4 @@ Append-only activity log. One line per action.
 - 2026-08-15 07:14 | /scan-experts | 9 new items across 11 experts. Most active: Ilya Sutskever (3 items). | 0 wiki pages | scan-experts-2026-08-15
 - 2026-08-22 06:00 | /scan-daily | 1 new item across 5 queries. Top: awesome-claude-code-workflows — curated workflow recipes combining hooks, MCP servers, skills, agents, and CLAUDE.md. | 0 wiki pages | scan-daily-2026-08-22
 - 2026-08-22 07:30 | /scan-experts | 17 new items across 12 experts. Most active: Dario Amodei / Ethan Mollick / Lenny Rachitsky (3 items each). Dario's "Policy on the AI Exponential" is the week's standout; SSI August model release pending. | 0 wiki pages | scan-experts-2026-08-22
+- 2026-08-25 06:07 | /scan-daily | 1 new item across 5 queries. Top: Anthropic Economic Index report: Cadences — research report on economic trends and cadences in AI adoption. | 0 wiki pages | scan-daily-2026-08-25
