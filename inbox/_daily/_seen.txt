@@ -386,3 +386,5 @@ https://simonwillison.net/2026/Aug/16/dario-amodei/
 https://x.com/itsolelehmann/status/2045578185950040390
 https://blog.modelcontextprotocol.io/posts/mcp-roadmap/
 https://www.anthropic.com/research/economic-index-june-2026-report
+https://www.anthropic.com/news/google-broadcom-partnership-compute
+https://www.anthropic.com/news/claude-opus-5
