@@ -389,3 +389,5 @@ https://www.anthropic.com/research/economic-index-june-2026-report
 https://www.anthropic.com/news/google-broadcom-partnership-compute
 https://www.anthropic.com/news/claude-opus-5
 https://www.anthropic.com/events
+https://www.anthropic.com/news/wellbeing-research-grants
+https://arxiv.org/pdf/2604.17460

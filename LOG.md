@@ -73,3 +73,4 @@ Append-only activity log. One line per action.
 - 2026-08-25 06:07 | /scan-daily | 1 new item across 5 queries. Top: Anthropic Economic Index report: Cadences — research report on economic trends and cadences in AI adoption. | 0 wiki pages | scan-daily-2026-08-25
 - 2026-08-26 06:00 | /scan-daily | 2 new items across 5 queries. Top: Introducing Claude Opus 5 — thoughtful and proactive model approaching frontier Fable 5 intelligence at half the price. | 0 wiki pages | scan-daily-2026-08-26
 - 2026-08-27 06:00 | /scan-daily | 1 new item across 5 queries. Top: Anthropic Events page — webinars, conferences, and community events hub. | 0 wiki pages | scan-daily-2026-08-27
+- 2026-08-28 06:00 | /scan-daily | 2 new items across 5 queries. Top: Anthropic $5M wellbeing research grants program; Agentic Education arxiv paper on teaching Claude Code via Claude Code. | 0 wiki pages | scan-daily-2026-08-28
