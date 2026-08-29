@@ -391,3 +391,11 @@ https://www.anthropic.com/news/claude-opus-5
 https://www.anthropic.com/events
 https://www.anthropic.com/news/wellbeing-research-grants
 https://arxiv.org/pdf/2604.17460
+https://www.geeky-gadgets.com/ilya-sutskever-ssi-ai-model/
+https://www.startuphub.ai/ai-news/ai-figures/2026/figure-ilya-sutskever-ssi-first-model-2026-08-14
+https://simonwillison.net/2026/Aug/22/llm/
+https://stratechery.com/2026/autonomy-and-innovation/
+https://techcrunch.com/2026/08/16/anthropic-ceo-says-ai-backlash-is-fundamentally-a-crisis-of-trust/
+https://fortune.com/2026/08/16/dario-amodei-anthropic-ai-trust-crisis-regulation-frontier-open-models-negative-views/
+https://fortune.com/2026/08/25/anthropic-ipo-could-create-millionaires-but-company-worried-about-money-over-mission-ai-firm-ceo-dario-amodei/
+https://www.startuphub.ai/ai-news/ai-figures/2026/figure-dario-amodei-company-financial-breakdown-2026-08-27
