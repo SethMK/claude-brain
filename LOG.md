@@ -75,3 +75,4 @@ Append-only activity log. One line per action.
 - 2026-08-27 06:00 | /scan-daily | 1 new item across 5 queries. Top: Anthropic Events page — webinars, conferences, and community events hub. | 0 wiki pages | scan-daily-2026-08-27
 - 2026-08-28 06:00 | /scan-daily | 2 new items across 5 queries. Top: Anthropic $5M wellbeing research grants program; Agentic Education arxiv paper on teaching Claude Code via Claude Code. | 0 wiki pages | scan-daily-2026-08-28
 - 2026-08-29 07:09 | /scan-experts | 8 new items across 4 experts. Most active: Dario Amodei (4 items). | 0 wiki pages | scan-experts-2026-08-29
+- 2026-08-31 06:04 | /scan-daily | 1 new item across 5 queries. Top: Anthropic expanding support for scientists — AI for Science program broadened with new researcher access and tools. | 0 wiki pages | scan-daily-2026-08-31
