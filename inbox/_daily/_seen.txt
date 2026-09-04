@@ -400,3 +400,4 @@ https://fortune.com/2026/08/16/dario-amodei-anthropic-ai-trust-crisis-regulation
 https://fortune.com/2026/08/25/anthropic-ipo-could-create-millionaires-but-company-worried-about-money-over-mission-ai-firm-ceo-dario-amodei/
 https://www.startuphub.ai/ai-news/ai-figures/2026/figure-dario-amodei-company-financial-breakdown-2026-08-27
 https://www.anthropic.com/news/expanding-support-for-scientists
+https://arxiv.org/pdf/2605.26112
