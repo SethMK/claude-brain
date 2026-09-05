@@ -39,3 +39,4 @@ Append-only activity log. One line per action.
 - 2026-07-29 00:00 | /scan-daily | 11 new items across 5 queries. Top: Claude Fable 5 & Mythos 5 announced; Sonnet 5 new default model; MCP 2026-07-28 final spec with stateless architecture and enterprise auth stable. | 0 wiki pages | scan-daily-2026-07-29
 - 2026-08-04 00:00 | /scan-daily | 3 new items across 5 queries. Top: MCP 2026-07-28 spec page + Python SDK v2 changelog; Anthropic Claude Partner Network $100M launch. | 0 wiki pages | scan-daily-2026-08-04
 - 2026-08-23 06:04 | /scan-daily | 1 new item across 5 queries. Top: The New MCP Roadmap — modelcontextprotocol.io roadmap post covering ongoing protocol development priorities. | 0 wiki pages | scan-daily-2026-08-23
+- 2026-09-05 07:12 | /scan-experts | 6 new items across 12 experts. Most active: Ethan Mollick (2 items), Dario Amodei (2 items), Ilya Sutskever (2 items). | 0 wiki pages | scan-experts-2026-09-05
