@@ -401,3 +401,9 @@ https://fortune.com/2026/08/25/anthropic-ipo-could-create-millionaires-but-compa
 https://www.startuphub.ai/ai-news/ai-figures/2026/figure-dario-amodei-company-financial-breakdown-2026-08-27
 https://www.anthropic.com/news/expanding-support-for-scientists
 https://arxiv.org/pdf/2605.26112
+https://www.anthropic.com/news/anthropic-raises-30-billion-series-g-funding-380-billion-post-money-valuation
+https://www.anthropic.com/news/claude-text-watermark
+https://arxiv.org/pdf/2606.05828
+https://arxiv.org/pdf/2603.14664
+https://arxiv.org/pdf/2602.08004
+https://arxiv.org/pdf/2603.28815
