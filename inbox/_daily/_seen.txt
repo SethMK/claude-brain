@@ -407,3 +407,4 @@ https://arxiv.org/pdf/2606.05828
 https://arxiv.org/pdf/2603.14664
 https://arxiv.org/pdf/2602.08004
 https://arxiv.org/pdf/2603.28815
+https://github.com/FlorianBruniaux/claude-code-ultimate-guide/blob/main/guide/workflows/agentic-software-factories.md

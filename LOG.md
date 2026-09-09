@@ -78,3 +78,4 @@ Append-only activity log. One line per action.
 - 2026-08-29 07:09 | /scan-experts | 8 new items across 4 experts. Most active: Dario Amodei (4 items). | 0 wiki pages | scan-experts-2026-08-29
 - 2026-08-31 06:04 | /scan-daily | 1 new item across 5 queries. Top: Anthropic expanding support for scientists — AI for Science program broadened with new researcher access and tools. | 0 wiki pages | scan-daily-2026-08-31
 - 2026-09-04 06:00 | /scan-daily | 1 new item across 5 queries. Top: From Model Scaling to System Scaling — arxiv paper on scaling the agentic harness beyond model-parameter scaling. | 0 wiki pages | scan-daily-2026-09-04
+- 2026-09-09 06:00 | /scan-daily | 1 new item across 5 queries. Top: claude-code-ultimate-guide agentic-software-factories.md — end-to-end guide to building autonomous multi-agent software factories with Claude Code. | 0 wiki pages | scan-daily-2026-09-09
