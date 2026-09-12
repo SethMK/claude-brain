@@ -408,3 +408,12 @@ https://arxiv.org/pdf/2603.14664
 https://arxiv.org/pdf/2602.08004
 https://arxiv.org/pdf/2603.28815
 https://github.com/FlorianBruniaux/claude-code-ultimate-guide/blob/main/guide/workflows/agentic-software-factories.md
+https://www.the-ai-corner.com/p/andrej-karpathy-ai-workflow-shift-agentic-era-2026
+https://x.com/lilianweng/status/2081816923088814421
+https://x.com/simonw/status/2094938927727804684
+https://nerranetwork.com/blog/models_agents/ep162.html
+https://x.com/emollick/status/2095957821644763561
+https://www.explainx.ai/blog/ethan-mollick-agency-agents-twilight-factory-august-2026
+https://aiweekly.co/node/11352
+https://x.com/lennysan/status/2041166073794592926
+https://stratechery.com/2026/write-things-down/
