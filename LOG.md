@@ -81,3 +81,4 @@ Append-only activity log. One line per action.
 - 2026-09-09 06:00 | /scan-daily | 1 new item across 5 queries. Top: claude-code-ultimate-guide agentic-software-factories.md — end-to-end guide to building autonomous multi-agent software factories with Claude Code. | 0 wiki pages | scan-daily-2026-09-09
 - 2026-09-12 07:08 | /scan-experts | 9 new items across 5 experts. Most active: Ethan Mollick (3 items). | 0 wiki pages | scan-experts-2026-09-12
 - 2026-09-13 06:00 | /scan-daily | 1 new item across 5 queries. Top: Countering misuse of AI: September 2026 — Anthropic threat intelligence report on adversarial AI patterns. | 0 wiki pages | scan-daily-2026-09-13
+- 2026-09-14 06:00 | /scan-daily | 2 new items across 5 queries. Top: bryanwills/awesome-claude-code — curated list of skills, hooks, slash-commands, orchestrators, and plugins for Claude Code. | 0 wiki pages | scan-daily-2026-09-14

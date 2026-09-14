@@ -418,3 +418,5 @@ https://aiweekly.co/node/11352
 https://x.com/lennysan/status/2041166073794592926
 https://stratechery.com/2026/write-things-down/
 https://www.anthropic.com/threat-intelligence-report-september-2026
+https://github.com/quintessence-lab/mdTechKnowledge/issues/278
+https://github.com/bryanwills/awesome-claude-code
