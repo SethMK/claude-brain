@@ -422,3 +422,16 @@ https://github.com/quintessence-lab/mdTechKnowledge/issues/278
 https://github.com/bryanwills/awesome-claude-code
 https://github.com/fornewid/claude-code-docs-changelog/releases/tag/doc-update-20260914-1512
 https://github.com/fornewid/claude-code-docs-changelog/releases/tag/doc-update-20260915-1512
+https://docs.anthropic.com/en/docs/claude-code/ide-integrations
+https://www.anthropic.com/news/life-sciences-verification-program
+https://www.anthropic.com/news/claude-for-life-sciences
+https://www.anthropic.com/claude-fable-and-mythos-5-1
+https://www.anthropic.com/research/claude-uplifts-biomolecular-modeling
+https://www.anthropic.com/research/Claude-accelerates-protein-design
+https://www.anthropic.com/research/agents-in-biology
+https://www.anthropic.com/news/claude-design-anthropic-labs
+https://www.anthropic.com/news/introducing-claude-tag
+https://www.anthropic.com/news/projects
+https://www.anthropic.com/product/claude-cowork
+https://www.anthropic.com/science
+https://www.anthropic.com/research/Evaluating-Claude-For-Bioinformatics-With-BioMysteryBench
