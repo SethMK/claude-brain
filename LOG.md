@@ -85,3 +85,4 @@ Append-only activity log. One line per action.
 - 2026-09-17 06:00 | /scan-daily | 2 new items across 5 queries. Top: fornewid/claude-code-docs-changelog 2026-09-15 — community-tracked daily Claude Code docs diff; mcp serve progress heartbeat + artifact rendering noted. | 0 wiki pages | scan-daily-2026-09-17
 - 2026-09-18 06:00 | /scan-daily | 13 new items across 5 queries. Top: Life Sciences Verification Program (LSVP) — verified bio researchers now get Mythos/Opus/Sonnet access with permissive safeguards; biomolecular modeling 4× speedup open-sourced. | 0 wiki pages | scan-daily-2026-09-18
 - 2026-09-19 07:10 | /scan-experts | 14 new items across 12 experts. Most active: Dario Amodei (6 items). | 0 wiki pages | scan-experts-2026-09-19
+- 2026-09-21 06:00 | /scan-daily | 1 new item across 5 queries. Top: fornewid/claude-code-docs-changelog 2026-09-19 — community-tracked daily Claude Code docs diff for Sep 19. | 0 wiki pages | scan-daily-2026-09-21
