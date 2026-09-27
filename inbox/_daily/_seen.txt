@@ -459,3 +459,4 @@ https://x.com/DarioAmodei/status/2102831170299834652
 https://www.bloomberg.com/news/articles/2026-09-22/anthropic-ceo-dario-amodei-to-brief-un-security-council-on-ai
 https://www.youtube.com/watch?v=a-fRNgnk6aE
 https://www.youtube.com/watch?v=m0S684aa8n8
+https://arxiv.org/pdf/2608.27675
