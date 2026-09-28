@@ -460,3 +460,4 @@ https://www.bloomberg.com/news/articles/2026-09-22/anthropic-ceo-dario-amodei-to
 https://www.youtube.com/watch?v=a-fRNgnk6aE
 https://www.youtube.com/watch?v=m0S684aa8n8
 https://arxiv.org/pdf/2608.27675
+https://www.anthropic.com/glasswing

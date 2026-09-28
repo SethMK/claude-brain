@@ -89,3 +89,4 @@ Append-only activity log. One line per action.
 - 2026-09-24 06:00 | /scan-daily | 1 new item across 5 queries. Top: Claude Platform landing page (anthropic.com/api) — Anthropic's developer API hub covering tool use and agent-building. | 0 wiki pages | scan-daily-2026-09-24
 - 2026-09-26 07:07 | /scan-experts | 8 new items across 11 experts. Most active: Dario Amodei (4 items). | 0 wiki pages | scan-experts-2026-09-26
 - 2026-09-27 06:00 | /scan-daily | 1 new item across 5 queries. Top: Agents for Everyone (arxiv 2608.27675) — workshop framework for agentic AI in distributed curation communities. | 0 wiki pages | scan-daily-2026-09-27
+- 2026-09-28 06:00 | /scan-daily | 1 new item across 5 queries. Top: Project Glasswing — Anthropic secures critical software after AI reaches human-surpassing vuln-discovery capability. | 0 wiki pages | scan-daily-2026-09-28
